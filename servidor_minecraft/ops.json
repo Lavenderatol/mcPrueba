@@ -1,0 +1,44 @@
+[
+  {
+    "uuid": "6a94e407-618d-373f-a263-06c6908c43d5",
+    "name": "Pantective",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4756f441-ef53-35e7-9a3a-ff5c13555233",
+    "name": "noranax",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "924c1042-eb96-30b4-8b16-790e68f4b1fa",
+    "name": "ShirouFRG",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "907b1982-352a-3c5a-b60d-dc96b45b04d4",
+    "name": "W4ndr",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "5af71b0d-0b49-3cdc-a3c0-77881e4ec11d",
+    "name": "Zunmei",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "593506a0-3261-3351-b274-03b210db340c",
+    "name": "noranas",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "01c02c6c-9b46-3adc-bdec-8677a0fe01a6",
+    "name": "Lavender",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

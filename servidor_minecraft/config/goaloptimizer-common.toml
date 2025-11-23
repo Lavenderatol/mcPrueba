@@ -1,0 +1,53 @@
+
+#GoalOptimizer
+[Sheep]
+	sheepHasFollowParentGoal = true
+	sheepHasTemptGoal = true
+	sheepHasSwimGoal = true
+	sheepHasBreedGoal = true
+	sheepHasLookAtGoal = true
+	sheepHasWaterAvoidingRandomWalkingGoal = true
+	sheepHasLookRandomlyGoal = true
+	sheepHasEatGrassGoal = true
+	sheepHasPanicGoal = true
+
+[Pig]
+	pigHasPanicGoal = true
+	pigHasTemptGoalOnFood = true
+	pigHasLookAtGoal = true
+	pigHasTemptGoalOfCarrotOnAStick = true
+	pigHasLookRandomlyGoal = true
+	pigHasFollowParentGoal = true
+	pigHasWaterAvoidingRandomWalingGoal = true
+	pigHasBreedGoal = true
+	pigHasSwimGoal = true
+
+[Cow]
+	cowHasFollowParentGoal = true
+	cowHasLookAtGoal = true
+	cowHasPanicGoal = true
+	cowHasSwimGoal = true
+	cowHasWaterAvoidingRandomWalkingGoal = true
+	cowHasTemptGoal = true
+	cowHasLookRandomlyGoal = true
+	cowHasBreedGoal = true
+
+[Fish]
+	squidHasFleeGoal = true
+	abstractFishHasAvoidEntityGoal = true
+	abstractFishHasSwimGoal = true
+	squidHasMoveRandomGoal = true
+	abstractGroupFishHasFollowSchoolLeaderGoal = true
+	pufferfishHasPufferGoal = true
+	abstractFishHasPanicGoal = true
+
+[Chicken]
+	chickenHasBreedGoal = true
+	chickenHasWaterAvoidingRandomWalkingGoal = true
+	chickenHasPanicGoal = true
+	chickenHasLookRandomlyGoal = true
+	chickenHasFollowParentGoal = true
+	chickenHasSwimGoal = true
+	chickenHasTemptGoal = true
+	chickenHasLookAtGoal = true
+
